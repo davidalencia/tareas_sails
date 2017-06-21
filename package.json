@@ -1,0 +1,16 @@
+{
+  "name": "exit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tarea_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Valencia",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.4.1",
+    "bluebird": "^3.5.0",
+    "readline-sync": "^1.4.7"
+  }
+}
